@@ -1,2 +1,3 @@
 test for git commit
 add line2
+add line3
